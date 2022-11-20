@@ -1,0 +1,1 @@
+export const SET_TICKERS_DATA = 'SET_TICKERS_DATA';
